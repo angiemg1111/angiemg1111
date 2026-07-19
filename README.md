@@ -1,4 +1,9 @@
-<h1>Hi, I'm Angela! 
+<h1>Hi, I'm Angela! I'm an IT, Azure, & AI professional with a background that sets me apart from traditional IT candidates: direct, firsthand experience as an end-user of the systems IT teams build.
+  
+<h2>👨‍💻 About Me </h2>
+I know what it feels like when a ticketing system adds friction instead of removing it, when access permissions are set up without the end-user in mind, or when "efficient" tools actually make people's jobs harder.
+That experience is exactly what I bring to IT now: empathy for the people who'll actually touch these systems every day, sharp problem-solving skills, and a genuine drive to help companies grow, but by setting up the right tools so employees can actually do their best work. 
+I believe good IT isn't just infrastructure that works — it's infrastructure that makes people's day-to-day easier, which is what ultimately drives efficiency, retention, and revenue.
 
 <h2>👨‍💻 IT Projects </h2>
 
