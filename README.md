@@ -2,31 +2,19 @@
   
 <h2>👨‍💻 About Me </h2>
 I have a background that sets me apart from traditional IT candidates: direct, firsthand experience as an end-user of the systems IT teams build.I know what it feels like when a ticketing system adds friction instead of removing it, when access permissions are set up without the end-user in mind, or when "efficient" tools actually make people's jobs harder.
+
 That experience is exactly what I bring to IT now: empathy for the people who'll actually touch these systems every day, sharp problem-solving skills, and a genuine drive to help companies grow, but by setting up the right tools so employees can actually do their best work. 
+
 I believe good IT isn't just infrastructure that works — it's infrastructure that makes people's day-to-day easier, which is what ultimately drives efficiency, retention, and revenue.
 
 <h2>👨‍💻 IT Projects </h2>
 
-- <b>Azure Compute and Networking 
-- <b>Ticketing systems </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Virtual Private Networks </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Active Directory </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>DNS</b>
-- Network File Shares and Permissions 
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Training Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- <b>Microsoft Azure
+-  [Remote Desktop Azure VM](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+- <b> OsTicketing systems </b>
+- [Osticket Post Installation Configuration](https://github.com/joshmadakor1/Sentinel-Lab)
+- [Ticket Lifecycle Scenario: Business-Critical Outage](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>📺 Certifications </h2>
 - Course Careers 2026 
