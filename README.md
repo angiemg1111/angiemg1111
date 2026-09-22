@@ -12,9 +12,10 @@ I have a background that sets me apart from traditional IT candidates: direct, f
    - [osTicket Post Installation Configuration](https://github.com/angiemg1111/OSTicket-Post-Installation-Configuration)
   - [Ticket Lifecycle Scenario: Business-Critical Outage](https://github.com/angiemg1111/Ticket-Lifecycle-Scenario-Business-Critical-Outage)
 
-<h2>📺 Certifications </h2>
-- Course Careers Information Technology Certificate 2026  
-- Microsoft Azure Fundamentals (AZ-900) 2026 
+## 📺 Certifications
+
+- Course Careers Information Technology Certificate 2026
+- Microsoft Azure Fundamentals (AZ-900) 2026
 - Google AI Professional Certificate 2026
 
 <h2> 🤳 Connect with me:</h2>
